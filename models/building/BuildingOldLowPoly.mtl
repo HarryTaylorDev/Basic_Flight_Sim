@@ -1,0 +1,48 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl buildings_buildings_0105_01
+Ka 0.000000 0.000000 0.000000
+Kd 0.545098 0.552941 0.537255
+Ks 0.330000 0.330000 0.330000
+map_Kd buildings_buildings_0105_01.jpg
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl BackColor
+Ka 0.000000 0.000000 0.000000
+Kd 0.643137 0.698039 0.733333
+Ks 0.330000 0.330000 0.330000
+
+newmtl _Vegetation_Blur3_1
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 0.972549 0.992157
+Ks 0.330000 0.330000 0.330000
+
+newmtl M_0135_DarkGray
+Ka 0.000000 0.000000 0.000000
+Kd 0.317647 0.317647 0.317647
+Ks 0.330000 0.330000 0.330000
+
+newmtl Concrete_Aggregate_Smoke
+Ka 0.000000 0.000000 0.000000
+Kd 0.635294 0.647059 0.631373
+Ks 0.330000 0.330000 0.330000
+map_Kd Concrete_Aggregate_Smoke.jpg
+
+newmtl Cladding_Stucco_White
+Ka 0.000000 0.000000 0.000000
+Kd 0.784314 0.784314 0.784314
+Ks 0.330000 0.330000 0.330000
+map_Kd Cladding_Stucco_White.jpg
+
+newmtl Brick_Tumbled
+Ka 0.000000 0.000000 0.000000
+Kd 0.529412 0.517647 0.517647
+Ks 0.330000 0.330000 0.330000
+map_Kd Brick_Tumbled.jpg
+

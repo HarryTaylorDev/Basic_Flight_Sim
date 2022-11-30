@@ -1,0 +1,2 @@
+C:/Users/harry/OneDrive/Documents/Work/UNI/year3/Graphics 2/Lab 3/06 64bit Viewing with OBJ loading with GLM and FreeImage/glm/out/build/x64-Debug (default)/CMakeFiles/edit_cache.dir
+C:/Users/harry/OneDrive/Documents/Work/UNI/year3/Graphics 2/Lab 3/06 64bit Viewing with OBJ loading with GLM and FreeImage/glm/out/build/x64-Debug (default)/CMakeFiles/rebuild_cache.dir
